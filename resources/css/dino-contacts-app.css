@@ -1,0 +1,21 @@
+.detailed_info .foto img{
+    width: 100px;
+}
+
+.detailed_info .email{
+    overflow: hidden;
+    color:#666;
+}
+
+.contact .title{
+    float:right;
+    color:#666;
+/*
+    padding-right: 40px;
+*/
+    font-size: 12px;
+}
+
+.contact .title {
+    padding-right: 25px;
+}
